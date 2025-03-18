@@ -19,3 +19,12 @@ TESTE
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
+
+3 o COMMIT
+ 
+## 🌱 Tecnologias que estou aprendendo:
+ 
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
