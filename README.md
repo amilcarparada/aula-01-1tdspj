@@ -11,3 +11,11 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 
 
 TESTE
+
+2o COMMIT
+ 
+## 📚 O que você encontrará aqui?
+ 
+- 📝 Projetos simples e tutoriais
+- 💡 Anotações e dicas
+- 🛠️ Experimentos com código
